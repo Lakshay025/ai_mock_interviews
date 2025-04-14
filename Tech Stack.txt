@@ -1,0 +1,5 @@
+Next Js: FrontEnd
+TailwindCss: For Styling
+Vapi: An AI Agent
+Shadcn: For creating beautifully-designed UI
+Google Gemini API Key
